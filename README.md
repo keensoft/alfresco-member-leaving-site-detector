@@ -5,7 +5,8 @@ Alfresco Member Leaving Site Detector
 This add-on writes a simple line at Alfresco repository log `alfresco.log` and Tomca log `catalina.out` everytime a user leaves a site.
 
 ```
-WARN  [keensoft.behaviour.MemberAssociationBehaviour] [http-bio-8080-exec-6] User Alice Beecher (abeecher@example.com) left role "SiteManager" at site "swsdp"
+WARN  [keensoft.behaviour.MemberAssociationBehaviour] [http-bio-8080-exec-6] 
+User Alice Beecher (abeecher@example.com) left role "SiteManager" at site "swsdp"
 ```
 
 **License**
